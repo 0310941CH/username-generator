@@ -1,0 +1,10 @@
+table, td {
+    border:1px solid grey;
+    border-collapse: collapse;
+  }
+
+  th {
+      background-color: black;
+      border:1px solid grey;
+      color: white;
+  }
